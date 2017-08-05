@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/vuex-project/node_modules/
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/Vue.js-Vuex.iml
